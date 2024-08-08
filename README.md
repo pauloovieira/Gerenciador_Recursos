@@ -1,4 +1,4 @@
-# Gerenciador_Recursos
+# Gerenciador de recursos
 
 Desafio do sistema de gerenciador de recursos
 
